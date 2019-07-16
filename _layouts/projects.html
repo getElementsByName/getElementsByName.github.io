@@ -1,0 +1,51 @@
+---
+layout: page
+---
+<link rel="stylesheet" href="/assets/css/projects.css">
+
+{%- if site.posts.size > 0 -%}
+<h2>프로젝트 업무</h2>
+<ul class="posts">
+	{%- for post in site.posts -%}
+		{%- if post.categories contains 'company' -%}
+		<li>
+			<a class="post-link" href="{{ post.url | relative_url }}">
+				<div class="post-meta">
+					<div>
+						<h3 class="post-title">- {{ post.title | escape }}</h3>
+					</div>
+				</div>
+				<div class="post">
+					<p class="post-description">{{ post.description }}</p>
+				</div>
+				
+				{{ content }}
+			</a>
+		</li>
+		{%- endif -%}
+	{%- endfor -%}
+</ul>
+
+
+<h2>개인 프로젝트</h2>
+<ul class="posts">
+	{%- for post in site.posts -%}
+		{%- unless post.categories contains 'company' -%}
+		<li>
+			<a class="post-link" href="{{ post.url | relative_url }}">
+				<div class="post-meta">
+					<div>
+						<h3 class="post-title">- {{ post.title | escape }}</h3>
+					</div>
+				</div>
+				<div class="post">
+					<p class="post-description">{{ post.description }}</p>
+				</div>
+				
+				{{ content }}
+			</a>
+		</li>
+		{%- endunless -%}
+	{%- endfor -%}
+</ul>
+{%- endif -%}

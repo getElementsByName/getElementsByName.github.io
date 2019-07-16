@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "네이버 플레이스"
+description: "네이버 장소 검색, 정보"
+categories: ['company']
+---
+![restaurant_search](/assets/image/place/restaurant_search.png)
+![restaurant_detail](/assets/image/place/restaurant_detail.png)
+
+## 기술
+- full stack
+- typescript
+- react (server-side rendering)
+- nodejs - express, koa
+- graphql
+- mongodb
+- elastic stack for logging
+- kubernetes
