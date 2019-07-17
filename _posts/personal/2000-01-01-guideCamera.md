@@ -2,7 +2,7 @@
 layout: post
 title:  "Guide Camera"
 description: "사진 구도 가이드 / 포토존 추천"
-categories: ['private']
+categories: ['personal']
 ---
 - 사진 구도 가이드
 - 포토존 추천

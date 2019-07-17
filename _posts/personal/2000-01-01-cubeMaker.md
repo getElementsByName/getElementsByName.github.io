@@ -2,7 +2,7 @@
 layout: post
 title:  "Cube Maker"
 description: "3D 프린팅을 위한 블럭기반 3D 모델링 프로그램"
-categories: ['private']
+categories: ['personal']
 ---
 - 3D 프린팅을 위한 블럭기반 3D 모델링 프로그램
 - 웹 기반 소프트웨어
