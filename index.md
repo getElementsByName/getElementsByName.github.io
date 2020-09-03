@@ -64,13 +64,12 @@ layout: home
 - traefik / istio
 
 ### Data Engineering
-(cloud-native development)
-
 - kafka
   - broker
   - kafka connector
   - kafka schema register
 - hadoop
+  - cloudera
   - hdfs
   - hive
   - hue
