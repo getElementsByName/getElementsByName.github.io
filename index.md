@@ -25,7 +25,7 @@ layout: home
 
 ---
 ## 기술스택
-### Full-stack
+### Full Stack
 - presentation layer
   - web
     - nodejs / browser
@@ -47,13 +47,13 @@ layout: home
     - apollo
 - infra
   - kubernetes
-  - monbodb
+  - mongodb
   - elastic search
     - logging (ETK)
     - search (using analyzer)
   - kibana
 
-### Cloud-navice
+### Cloud Native
 - kubernetes
   - helm
   - docker
@@ -62,7 +62,6 @@ layout: home
   - metrics exporter 
     - java (using jmx), python
 - traefik / istio
-
 
 ### Data Engineering
 (cloud-native development)
