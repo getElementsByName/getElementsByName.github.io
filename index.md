@@ -4,7 +4,8 @@
 
 layout: home
 ---
-## [프로젝트 목록](/projects)
+## 프로젝트 목록
+- [link](/projects)
 
 ---
 ## 경력
@@ -39,3 +40,8 @@ layout: home
   - monbodb
   - elastic search
   - kibana
+
+---
+![why_profile](/assets/image/profile/styled_why_profile.png){:width="150px"}
+- [linkedin profile](https://www.linkedin.com/in/wonhong-yoo/)
+- [github](https://github.com/getElementsByName/)
