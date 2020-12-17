@@ -8,6 +8,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
+gem "kramdown", ">= 2.3.0" # security
 gem "jekyll", "~> 3.7.3"
 
 # jekyll texture theme
