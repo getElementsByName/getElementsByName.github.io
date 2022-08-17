@@ -14,12 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Wonhong Yoo
-author: Fullstack Software Developer
+author: Machine Learning Engineer
 email: korywh@gmail.com
 
 texture:
   title: Wonhong Yoo
-  tagline: Fullstack Software Developer
+  tagline: Machine Learning Engineer
   # date_format: "%b %-d, %Y"
   style: black
   showNav: true

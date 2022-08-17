@@ -10,9 +10,12 @@ layout: home
 ---
 ## 경력
 ### NAVER
+- 플레이스 AI 개발
+  - 2021/05 ~
+  - Machine Learning Engineering / MLOps
 - 플레이스 데이터 개발
-  - 2020/05 ~
-  - Data Engineering / Machine Learning
+  - 2020/05 ~ 2021/05
+  - Data Engineering / Machine Learning Engineering
 - 플레이스 서비스 개발
   - 2018/06 ~ 2020/04
   - 풀스택 웹 개발
@@ -62,12 +65,21 @@ layout: home
   - metrics exporter 
     - java (using jmx), python
 - traefik / istio
+- argo
+
+### MLOps
+- Kubeflow
+- MLflow
+- DVC
+- KServe
 
 ### Data Engineering
+- spark
 - kafka
   - broker
   - kafka connector
   - kafka schema register
+- nats
 - hadoop
   - cloudera
   - hdfs
@@ -80,6 +92,7 @@ layout: home
   - mysql
   - postgresql
   - redis
+  - cassandra
 
 ---
 ![why_profile](/assets/image/profile/styled_why_profile.png){:width="150px"}
