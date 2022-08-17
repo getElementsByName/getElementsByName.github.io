@@ -67,18 +67,21 @@ GEM
       jekyll (>= 3.7)
       jekyll-seo-tag (>= 2.1)
     unicode-display_width (1.8.0)
+    webrick (1.7.0)
 
 PLATFORMS
   arm64-darwin-21
 
 DEPENDENCIES
-  jekyll (~> 4.2.0)
+  http_parser.rb (~> 0.6.0)
+  jekyll (~> 4.2.2)
   jekyll-feed (~> 0.12)
   minima (~> 2.5)
   texture
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
+  webrick (~> 1.7)
 
 BUNDLED WITH
    2.3.20

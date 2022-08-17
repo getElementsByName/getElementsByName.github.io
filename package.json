@@ -1,6 +1,0 @@
-{
-  "name": "why-profile",
-  "scripts": {
-    "start": "bundle exec jekyll serve"
-  }
-}
