@@ -30,7 +30,10 @@ texture:
 # Build settings
 permalink: /projects/:title
 markdown: kramdown
-theme: texture
+# theme: monophase
+plugins:
+  - jekyll-remote-theme
+
 remote_theme: samarsault/texture
 
 sass:
