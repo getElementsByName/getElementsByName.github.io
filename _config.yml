@@ -25,7 +25,7 @@ texture:
   showNav: true
   social_links:
     github: getElementsByName
-    linkedIn: false
+    linkedIn: wonhong-yoo
 
 # Build settings
 permalink: /projects/:title
