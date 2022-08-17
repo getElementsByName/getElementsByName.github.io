@@ -31,7 +31,7 @@ texture:
 permalink: /projects/:title
 markdown: kramdown
 theme: texture
-remote_theme: thelehhman/texture
+remote_theme: samarsault/texture
 
 sass:
     sass_dir: _sass
