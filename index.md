@@ -13,6 +13,7 @@ layout: home
 - 플레이스 AI 개발
   - 2021/05 ~
   - Machine Learning Engineering / MLOps
+  - TL (Technical Leader)
 - 플레이스 데이터 개발
   - 2020/05 ~ 2021/05
   - Data Engineering / Machine Learning Engineering
